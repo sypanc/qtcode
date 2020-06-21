@@ -1,3 +1,3 @@
 # qtcode
 panshengyin
-huai 
+wan
